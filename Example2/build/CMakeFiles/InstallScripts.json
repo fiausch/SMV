@@ -1,7 +1,7 @@
 {
 	"InstallScripts" : 
 	[
-		"/home/tera/Projects/SMV/Example2/build/cmake_install.cmake"
+		"/home/tera/Projects/SMV/SMV/Example2/build/cmake_install.cmake"
 	],
 	"Parallel" : false
 }

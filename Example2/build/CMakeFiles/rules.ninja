@@ -74,7 +74,7 @@ rule CUSTOM_COMMAND
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = /usr/bin/cmake --regenerate-during-build -S/home/tera/Projects/SMV/Example2 -B/home/tera/Projects/SMV/Example2/build
+  command = /usr/bin/cmake --regenerate-during-build -S/home/tera/Projects/SMV/SMV/Example2 -B/home/tera/Projects/SMV/SMV/Example2/build
   description = Re-running CMake...
   generator = 1
 
@@ -83,7 +83,7 @@ rule RERUN_CMAKE
 # Rule for re-checking globbed directories.
 
 rule VERIFY_GLOBS
-  command = /usr/bin/cmake -P /home/tera/Projects/SMV/Example2/build/CMakeFiles/VerifyGlobs.cmake
+  command = /usr/bin/cmake -P /home/tera/Projects/SMV/SMV/Example2/build/CMakeFiles/VerifyGlobs.cmake
   description = Re-checking globbed directories...
   generator = 1
 
