@@ -1,0 +1,1 @@
+/home/tera/DevPackages/1.4.328.1/x86_64/bin/slangc resources/shaders/shader.slang -target spirv -profile spirv_1_4 -emit-spirv-directly -fvk-use-entrypoint-name -entry vertMain -entry fragMain -o resources/shaders/slang.spv

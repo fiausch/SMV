@@ -1,0 +1,4 @@
+# ninja log v7
+0	7	1764278048632642052	/home/tera/Projects/SMV/Example1/build/CMakeFiles/cmake.verify_globs	9305861bf2e7d60
+7	3494	1764278048639308842	CMakeFiles/main.dir/src/main.cpp.o	17557f4a2cf70735
+3494	3560	1764278052129373177	main	ef1fe45530d4ac30

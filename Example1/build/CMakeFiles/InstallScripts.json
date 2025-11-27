@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/tera/Projects/SMV/Example1/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

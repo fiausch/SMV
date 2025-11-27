@@ -1,0 +1,10 @@
+# ninja log v7
+0	6	1764279440420902417	/home/tera/Projects/SMV/Example1/build/CMakeFiles/cmake.verify_globs	9305861bf2e7d60
+8	3714	1764279456891249975	CMakeFiles/main.dir/src/main.cpp.o	23188baa05d638ae
+3715	3781	1764279460597994880	main	ef1fe45530d4ac30
+6	23	1764279509749032687	build.ninja	f3b220fcbc23766
+6	23	1764279440417569013	/home/tera/Projects/SMV/Example1/build/cmake_install.cmake	f3b220fcbc23766
+0	7	1764279494428709115	/home/tera/Projects/SMV/Example2/build/CMakeFiles/cmake.verify_globs	44b1259488b983dd
+0	6	1764279509755699495	/home/tera/Projects/SMV/Example2/build/CMakeFiles/cmake.verify_globs	44b1259488b983dd
+7	3704	1764279509762366302	CMakeFiles/main.dir/src/main.cpp.o	23188baa05d638ae
+3705	3776	1764279513459111061	main	ef1fe45530d4ac30
